@@ -13,5 +13,5 @@ This tutorial consists of 4 parts
 3. Pandas Operations <br>
   3.1 slicing, fancy indexing, and subsetting <br>
   3.2 merging and joining of data sets <br>
-  3.3 Gruping  <br>
+  3.3 Grouping  <br>
 4. Time series & Ploting <br>
