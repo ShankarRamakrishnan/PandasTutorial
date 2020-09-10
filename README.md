@@ -8,10 +8,8 @@ This tutorial consists of 4 parts
   1.2 Loading data from sources (CSV, JSON etc) <br>
 2. Viewing data <br>
   2.1.Selecting data <br> 
-  2.2 Re-shaping and pivoting datasets <br>
-  2.3 Handing missing data <br>
+  2.2 Slicing, fancy indexing, and subsetting <br>
 3. Pandas Operations <br>
-  3.1 slicing, fancy indexing, and subsetting <br>
-  3.2 merging and joining of data sets <br>
-  3.3 Grouping  <br>
+  3.1 Joins and merging of data sets <br>
+  3.2 Grouping  <br>
 4. Time series & Ploting <br>
